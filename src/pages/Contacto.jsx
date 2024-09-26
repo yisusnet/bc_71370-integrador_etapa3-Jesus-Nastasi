@@ -4,7 +4,7 @@ import { faLocationArrow } from '@fortawesome/free-solid-svg-icons';
 import FormContacto from '../components/FormContacto';
 import HeadersContacto from '../components/HeadersContacto';
 import WhatsappContacto from '../components/WhatsappContacto';
-import './contacto.scss';
+import './Contacto.scss';
 import useTitulo from '../hooks/useTitulo';
 
 const Contacto = () => {
